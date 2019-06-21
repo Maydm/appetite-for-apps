@@ -1,0 +1,14 @@
+public class IndexOfString {
+    public static void main (String[] args) {
+        String statement = "Maydm is Made By Them, My Madym is Made By Me! I'm learning to code in java";
+        int position = statement.indexOf("Maydm");
+        int location = statement.indexOf("Made");
+        int spot = statement.indexOf("Rockin!");
+
+        System.out.println("Position of Maydm: " + position); // returns position of first occurance of Maydm
+        System.out.println("Position of Made: " + location); // returns first position of first iteration of Made
+        System.out.println("Position of Rockin!" + spot); // Doesn't exist, returns -1
+        System.out.println("the first '!' is at position " + statement.indexOf("!"));
+        System.out.println(statement.indexOf("maydm")); // Are you surprised by the returned value?
+    }
+}
