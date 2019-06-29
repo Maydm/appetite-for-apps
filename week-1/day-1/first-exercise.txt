@@ -4,6 +4,16 @@ Throughout the course of this program never copy and paste! Copy and paste when
 someone is paying you to code for them. Until then, type out everything to 
 ensure successful learning!
 
+As you code, you will inevitably run into errors. That's part of the learning
+process for all developers. Write down those error statements and your solution 
+to the error for a quick future reference and to help you avoid making that
+same mistake again in the future, and to become a better programmer faster.
+Do this everyday for every error that you receive.
+
+Oftentimes in programming, moving fast is actually slow. (what do you suppose
+    that means? Keep it in the back of your head as you progress through
+    this program and you'll likely discover the answer).
+
 Write your first Java progam:
 
 /*
