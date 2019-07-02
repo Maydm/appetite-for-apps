@@ -21,4 +21,5 @@ public class concatenateName {
 What's next?
 
 We'll create a new Java file using this codebase to ask
-users for their names using the Scanner class. 
+users for their names using the Scanner class. Open
+"concatenate-user-input-name.txt" to get started.

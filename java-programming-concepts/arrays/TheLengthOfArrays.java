@@ -18,5 +18,6 @@ public class TheLengthOfArrays {
 }
 
 // What now?
-// Soon we will cover loops and then come back to arrays.
+// Soon we will cover loops and then come back to arrays. For now, let's learn
+// about multi-dimensional loops.
 
