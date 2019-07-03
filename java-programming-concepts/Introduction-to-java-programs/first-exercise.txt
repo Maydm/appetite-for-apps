@@ -14,7 +14,11 @@ Oftentimes in programming, moving fast is actually slow. (what do you suppose
     that means? Keep it in the back of your head as you progress through
     this program and you'll likely discover the answer).
 
-Write your first Java progam:
+To write your first Java progam open Git Bash and cd into your development folder.
+$ touch MyFirstProgram.java
+$ code MyFirstProgram.java
+This will open Visual Studio. Begin.
+The alternative method is to open Visual Studio directly, begin working and then save.
 
 /*
   Anything inside here is a comment.
@@ -28,6 +32,11 @@ Write your first Java progam:
          System.out.println("Today is March 3, 2019.");
      }
  }
+ 
+// Hello students. Remember, don't copy and paste! Not even from this file. 
+// If you are receiving errors double check spelling and capitalization. 
+// Computers are very obedient, they do whatever you tell them to and they
+// have a hard time processing mistakes, even very minor ones like misspelled words.
  
  Once complete follow these instructions:
  

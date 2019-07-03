@@ -9,6 +9,7 @@ public class concatenateName {
         String middleName = "ENTER_YOUR_NAME";
         // If you have two last or middle names then add
         // them as "middleName2" and "lastName2"
+        // Remember to add any new variables into the print statement.
 
         String firstAndLastName = firstName + " " + lastName;
         String fullName = firstName + " " + middleName + " " + lastName;
