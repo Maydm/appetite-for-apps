@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TheQuizzler</string>
+    <string name="question_madison">Madison is the capital of Wisconsin.</string>
+    <string name="question_milwaukee">Milwaukee is smaller in population than Madison.</string>
+    <string name="question_chicago">Chicago is larger than Milwaukee and Madison combined.</string>
+    <string name="question_bird">The robin is the state bird of Wisconsin</string>
+    <string name="question_tree">The birch is the state tree of Wisconsin</string>
+    <string name="question_midwest">Wisconsin is one of seven states classified as being in the Midwest.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect</string>
+</resources>
